@@ -101,14 +101,12 @@ p {
 
 .content {
   background-color: #E6E6E6;
-  height: 800px;
-  margin-bottom: -240px;  
+  padding-bottom: 1%; 
 }
-.content2 {
+/*.content2 {
   background-color: #E6E6E6;
-  height: 800px;
   margin-top: 5%;  
-}
+}*/
 
 .row {
   position: relative;

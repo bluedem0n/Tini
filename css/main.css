@@ -1,0 +1,40 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+header {
+	height: 700px;
+	background-color: #FFD700;
+}
+button {
+	width: 100px;
+	height: 50px;
+	background-color: #FAAC58;
+	border-left-style: none;
+	border-right-style: none;
+	border-top-style: none;
+	border-bottom-style: none;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+footer {
+	height: 100px;
+	background-color: #585858;
+}
+h1 {
+	color: #848484;
+	margin-bottom: 5px;
+	margin-left: 10px;
+	margin-top: 40px;
+}
+.content-white {
+	background-color: white;
+	margin-top: 10%;
+    padding: 5%;
+    text-align: center;
+}
+

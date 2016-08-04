@@ -16,10 +16,12 @@ a {
 }
 img {
 	padding-left: 11%;
+	padding-bottom: 8%;
 }
 footer {
-	height: 100px;
-	background-color: #585858;
+	height: 10%;
+	background-color: #262624;
+	padding-left: 3%;
 }
 .cabecera {
 	padding-top: 10%;
@@ -46,7 +48,7 @@ footer {
 
 }
 .boton-section{
-	padding: 8px 25px;
+	padding: 16px 25px;
 	background-color: #fcba43;
 	border-radius: 5px
 }
@@ -55,5 +57,6 @@ footer {
 }
 .boton-center{
 	text-align: center;
+	padding-top: 10%;
 }
 
